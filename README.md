@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1 align="center">Full Stack Web and Mobile Developer</h1>
+<p align="center"><img align="center" style="width:96%" src="https://tavvy.com/article/wp-content/uploads/2019/12/programming.jpg" style = "width: -webkit-fill-available;"/></p>
 <!--
 **smile1103/smile1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
