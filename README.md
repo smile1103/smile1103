@@ -9,7 +9,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="100"></td>
     <td><img src="https://raw.githubusercontent.com/sveltejs/svelte/29052aba7d0b78316d3a52aef1d7ddd54fe6ca84/site/static/images/svelte-android-chrome-512.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-2038872-1720085.png" width="100"></td>
-    <td><img src="    https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="100"></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="100"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710" width="100"></td>
     <td><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" width="100"></td>
     <td><img src="https://ionicacademy.com/wp-content/uploads/2017/06/ionic-logo-portrait-300x300.png" width="100"></td>
