@@ -1,7 +1,7 @@
 <h1 align="center">Full Stack Web and Mobile Developer</h1>
 <p align="center"><img align="center" style="width:96%" src="https://raw.githubusercontent.com/webdev1109/webdev1109/main/visionnaire-linguagens-de-programacao_14045_img.jpg" style = "width: -webkit-fill-available;"/></p>
 
-<br/><h2 align="center">My main Skill</h2><br/>
+<h2 align="center">My main Skill</h2>
 <table align="center">
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3772319-3151445.png" width="100"></td>
