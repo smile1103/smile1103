@@ -5,8 +5,8 @@
 <table align="center">
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3772319-3151445.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-226066.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-226066.png" width="100"></td>
     <td><img src="https://raw.githubusercontent.com/sveltejs/svelte/29052aba7d0b78316d3a52aef1d7ddd54fe6ca84/site/static/images/svelte-android-chrome-512.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-2038872-1720085.png" width="100"></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="100"></td>
@@ -28,19 +28,12 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/git-17-1175218.png" width="100"></td>
   </tr>
 </table>
+<h2>I can provide services in the next scope of technologies</h2>
+<p>Frontend : React | Next | Vue | Angular | Svelte</p>
+<p>Backend : PHP | Node | Express | Python | Django | Laravel | CodeIgniter</p>
+<p>Desktop : C/C++ | C# | Qt | VB | Java </p>
+<p>Android : ReactNative | Fultter | lonic</p>
+<p>Database : MySQL | PostgreSQL | MongoDB | Oracle</p>
+<p>API : Restful | GraphQL</p>
+<p>Extras : AWS | Firebase | Git | Scraping</p>
 
-
-<!--
-**smile1103/smile1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
