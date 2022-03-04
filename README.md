@@ -31,7 +31,7 @@
 <h2>I can provide services in the next scope of technologies</h2>
 <p>Frontend : React | Next | Vue | Angular | Svelte</p>
 <p>Backend : PHP | Node | Express | Python | Django | Laravel | CodeIgniter</p>
-<p>Desktop : C/C++ | C# | Qt | VB | Java </p>
+<p>Desktop : C/C++ | Java | C# | Qt | VB </p>
 <p>Android : ReactNative | Fultter | lonic</p>
 <p>Database : MySQL | PostgreSQL | MongoDB | Oracle</p>
 <p>API : Restful | GraphQL</p>
