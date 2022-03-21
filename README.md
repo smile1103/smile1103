@@ -32,7 +32,7 @@
 <p>Frontend : React | Next | Vue | Angular | Svelte</p>
 <p>Backend : PHP | Node | Express | Python | Django | Laravel | CodeIgniter</p>
 <p>Desktop : C/C++ | Java | C# | Qt | VB </p>
-<p>Android : ReactNative | Fultter | lonic</p>
+<p>Android : ReactNative | Flutter | lonic</p>
 <p>Database : MySQL | PostgreSQL | MongoDB | Oracle | Firebase Realtime Database</p>
 <p>API : Restful | GraphQL</p>
 <p>Extras : AWS | Firebase | Git | Scraping</p>
